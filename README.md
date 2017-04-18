@@ -1,6 +1,21 @@
 # SICP
 
-# Exercise log
+## resourse
+
+1. [SICP Book][2] 
+2. [裘宗燕北大课程][4]
+3. [CS61A@UCB][5], Python3
+4. [SICP Picture Language][3]
+
+![SICP HomePage][1]
+
+[1]: https://mitpress.mit.edu/sicp/full-text/book/cover.jpg "SICP Cover"
+[2]: https://mitpress.mit.edu/sicp/full-text/book/book.html "SICP Book"
+[3]: http://planet.racket-lang.org/package-source/soegaard/sicp.plt/2/1/planet-docs/sicp-manual/index.html "Picture Language"
+[4]: http://www.math.pku.edu.cn/teachers/qiuzy/progtech/slides/index.php "qzy@pku"
+[5]: http://composingprograms.com/ "Python"
+
+## Exercise log
 
 chapter-1-1.rkt:;Exercise 1.16
 chapter-1-1.rkt:;Exercise 1.19
