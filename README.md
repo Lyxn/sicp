@@ -2,8 +2,6 @@
 
 # Exercise log
 
-Huffman.rkt:;Exercise 2.67
-Huffman.rkt:;Exercise 2.68
 chapter-1-1.rkt:;Exercise 1.16
 chapter-1-1.rkt:;Exercise 1.19
 chapter-1-1.rkt:;Exercise 1.28
@@ -53,6 +51,8 @@ chapter-3-4.rkt:;Exercise 3.71
 chapter-3-4.rkt:;Exercise 3.72
 chapter-3-4.rkt:;Exercise 3.77
 chapter-3-4.rkt:;Exercise 3.81
+huffman.rkt:;Exercise 2.67
+huffman.rkt:;Exercise 2.68
 painter.rkt:;Exercise 2.45
 painter.rkt:;Exercise 2.46
 painter.rkt:;Exercise 2.47
