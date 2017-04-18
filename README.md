@@ -22,7 +22,7 @@
 
 Code with [Racket][6].
 
-**Excercise 2.49: Smiling Wave **
+**Excercise 2.49: Smiling Wave**
 
 ![wave][8] ![flip][7]
 
