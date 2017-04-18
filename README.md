@@ -15,10 +15,15 @@
 [4]: http://www.math.pku.edu.cn/teachers/qiuzy/progtech/slides/index.php "qzy@pku"
 [5]: http://composingprograms.com/ "Python"
 [6]: http://www.racket-lang.org/ "racket"
+[7]: https://github.com/Lyxn/sicp/blob/master/fig/human.png "flip wave"
+[8]: https://github.com/Lyxn/sicp/blob/master/fig/human0.png "wave"
 
 ## Exercise log
 
 Code with [Racket][6].
+
+**Excercise 2.49: Wave Figure**
+![wave][8] ![flip][7]
 
 * chapter-1-1.rkt:;Exercise 1.16
 * chapter-1-1.rkt:;Exercise 1.19
