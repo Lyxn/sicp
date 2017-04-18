@@ -23,6 +23,7 @@
 Code with [Racket][6].
 
 **Excercise 2.49: Wave Figure**
+
 ![wave][8] ![flip][7]
 
 * chapter-1-1.rkt:;Exercise 1.16
