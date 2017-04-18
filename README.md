@@ -3,9 +3,9 @@
 ## resourse
 
 1. [SICP Book][2] 
-2. [裘宗燕北大课程][4]
-3. [CS61A@UCB][5], Python3
-4. [SICP Picture Language][3]
+1. [裘宗燕北大课程][4]
+1. [CS61A@UCB][5], Python3
+1. [SICP Picture Language][3]
 
 ![SICP HomePage][1]
 
