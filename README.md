@@ -9,8 +9,8 @@
 
 ![SICP HomePage][1]
 
-[1]: https://mitpress.mit.edu/sicp/full-text/book/cover.jpg "SICP Cover"
-[2]: https://mitpress.mit.edu/sicp/full-text/book/book.html "SICP Book"
+[1]: https://mitpress.mit.edu/sites/default/files/sicp/graphics/main-banner.gif "SICP Cover"
+[2]: https://mitpress.mit.edu/sites/default/files/sicp/index.html "SICP Book"
 [3]: http://planet.racket-lang.org/package-source/soegaard/sicp.plt/2/1/planet-docs/sicp-manual/index.html "Picture Language"
 [4]: http://www.math.pku.edu.cn/teachers/qiuzy/progtech/slides/index.php "qzy@pku"
 [5]: http://composingprograms.com/ "Python"
